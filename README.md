@@ -5,6 +5,10 @@
 </p>
 
 <p align="center">
+  <a href="https://www.kaggle.com/mubeenakhund"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" /></a>
+</p>
+
+<p align="center">
   <a href="https://linkedin.com/in/mubeen-akhund-b3004335a/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
