@@ -38,12 +38,15 @@ I am a second-year Software Engineering student focused on the intersection of D
 * **Data Science:** Exploratory Data Analysis (EDA), Pandas, Numpy, Matplotlib, Seaborn.
 * **Languages:** Python, C++, Java.
 * **Web & Database:** React, Node.js, Firebase, Supabase, Html, Css.
+* **Tools & Platforms:** Jupyter Notebook, Google Colab, Git, GitHub, VS Code.
   
 ---
 
 ### 📜 Certifications
-* ✅ **[Course Name]** — [Provider]
-* ✅ **[Course Name]** — [Provider]
+* ✅ **[Python Fundamentals (Kaggle)](https://www.kaggle.com/learn/certification/mubeenakhund/python)** — 
+* ✅ **[Google AI Essentials Specialization](https://www.coursera.org/account/accomplishments/specialization/D4KIDNS0PRBX)** — Winner (Solved 9/9 Puzzles).
+* ✅ **[Meta Hacker Cup 2025](https://www.facebook.com/codingcompetitions/hacker-cup/2025/certificate/825240783296837)** — Participant & Competitor.
+* ✅ **[Harvard CS50x Puzzle Day 2025](https://certificates.cs50.io/436c9708-2794-49e9-9fd8-3c7c8d0f99d8.pdf?size=letter)** — Winner (Solved 9/9 Puzzles).
 
 ---
 
