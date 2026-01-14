@@ -40,7 +40,7 @@ I am a second-year Software Engineering student focused on the intersection of D
 
 * **Machine Learning:** Regression, Classification, Neural Networks, Scikit-Learn.
 * **Data Science:** Exploratory Data Analysis (EDA), Pandas, Numpy, Matplotlib, Seaborn.
-* **Languages:** Python, C++, Java.
+* **Languages:** Python, C++, Java, SQL.
 * **Web & Database:** React, Node.js, Firebase, Supabase, Html, Css.
 * **Tools & Platforms:** Jupyter Notebook, Google Colab, Git, GitHub, VS Code.
   
