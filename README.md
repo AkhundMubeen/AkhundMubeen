@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋 I'm Akhund Mubeen</h1>
+<h1 align="center">Hi 👋 I'm Mubeen Akhund</h1>
 
 <p align="center">
-  <strong>Full Stack Developer | Data Science Enthusiast | Aspiring AI Engineer</strong>
+  <strong>Data Science & ML Research Aspirant | Python & AI Developer | Software Engineering @ MUET</strong>
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/mubeen-akhund-b3004335a/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
 <p align="center">
@@ -43,8 +43,8 @@ I am a second-year Software Engineering student focused on the intersection of D
 ---
 
 ### 📜 Certifications
-* ✅ **[Python Fundamentals (Kaggle)](https://www.kaggle.com/learn/certification/mubeenakhund/python)** — 
-* ✅ **[Google AI Essentials Specialization](https://www.coursera.org/account/accomplishments/specialization/D4KIDNS0PRBX)** — Winner (Solved 9/9 Puzzles).
+* ✅ **[Python Fundamentals (Kaggle)](https://www.kaggle.com/learn/certification/mubeenakhund/python)** — Kaggle.
+* ✅ **[Google AI Essentials Specialization](https://www.coursera.org/account/accomplishments/specialization/D4KIDNS0PRBX)** — Google & Coursera.
 * ✅ **[Meta Hacker Cup 2025](https://www.facebook.com/codingcompetitions/hacker-cup/2025/certificate/825240783296837)** — Participant & Competitor.
 * ✅ **[Harvard CS50x Puzzle Day 2025](https://certificates.cs50.io/436c9708-2794-49e9-9fd8-3c7c8d0f99d8.pdf?size=letter)** — Winner (Solved 9/9 Puzzles).
 
@@ -52,7 +52,7 @@ I am a second-year Software Engineering student focused on the intersection of D
 
 ### 🎓 Education
 
-* **B.E. Software Engineering** — Mehran University of Engineering and Technology (MUET), Jamshoro.
+* **B.E. Software Engineering** — Mehran University of Engineering and Technology (MUET), Jamshoro, Pakistan.
 * 📍 **Timeline:** 2024–2028 | **Current Status:** Fourth Semester.
 
 ---
