@@ -48,7 +48,8 @@ I am a second-year Software Engineering student focused on the intersection of D
 ---
 
 ### 📜 Certifications
-* ✅ **[Python Fundamentals (Kaggle)](https://www.kaggle.com/learn/certification/mubeenakhund/python)** — Kaggle.
+* ✅ **[Python Pandas (Kaggle)](https://www.kaggle.com/learn/certification/mubeenakhund/pandas)** — Kaggle.
+* ✅ **[Python Fundamentals (Kaggle)](https://www.kaggle.com/learn/certification/mubeenakhund/python)** — Kaggle. 
 * ✅ **[Google AI Essentials Specialization](https://www.coursera.org/account/accomplishments/specialization/D4KIDNS0PRBX)** — Google & Coursera.
 * ✅ **[Meta Hacker Cup 2025](https://www.facebook.com/codingcompetitions/hacker-cup/2025/certificate/825240783296837)** — Participant & Competitor.
 * ✅ **[Harvard CS50x Puzzle Day 2025](https://certificates.cs50.io/436c9708-2794-49e9-9fd8-3c7c8d0f99d8.pdf?size=letter)** — Winner (Solved 9/9 Puzzles).
