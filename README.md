@@ -48,7 +48,8 @@ I am a second-year Software Engineering student focused on the intersection of D
 ---
 
 ### 📜 Certifications
-* ✅ **[Supervised Machine Learning: Regression & Classification (Stanford)](https://www.coursera.org/account/accomplishments/verify/YT6C95OKHYKB)** — DeepLearning.AI (Andrew Ng).
+* ✅ **[Supervised Machine Learning: Regression & Classification (Stanford Online)](https://www.coursera.org/account/accomplishments/verify/YT6C95OKHYKB)** — DeepLearning.AI (Andrew Ng).
+* ✅ **[Advanced Machine Learning Algorithms (Stanford Online)](https://www.coursera.org/account/accomplishments/verify/TIH1URPNQGK0)** — DeepLearning.AI (Andrew Ng).
 * ✅ **[Python Pandas (Kaggle)](https://www.kaggle.com/learn/certification/mubeenakhund/pandas)** — Kaggle.
 * ✅ **[Python Fundamentals (Kaggle)](https://www.kaggle.com/learn/certification/mubeenakhund/python)** — Kaggle. 
 * ✅ **[Google AI Essentials Specialization](https://www.coursera.org/account/accomplishments/specialization/D4KIDNS0PRBX)** — Google & Coursera.
