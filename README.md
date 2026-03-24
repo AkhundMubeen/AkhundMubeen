@@ -31,6 +31,7 @@ I am a second-year Software Engineering student focused on the intersection of D
 
 | Project | Description |
 | :--- | :--- |
+| **[Student Success Analytics ML Pipeline](https://github.com/AkhundMubeen/Student-Success-Analytics)** | A machine learning pipeline to predict student outcomes (Dropout / Enrolled / Graduate) using tabular data, with class imbalance handling, feature analysis, and model optimization. |
 | **[Netflix EDA & Recommendation Engine](https://github.com/AkhundMubeen/Netflix-Deep-EDA-and-Content-Based-Recommendation-Engine)** | A deep-dive analysis of Netflix library trends coupled with a 36-dimensional Cosine Similarity recommendation engine. |
 | **[Google Play Store EDA](https://github.com/AkhundMubeen/Google-Play-Store-Apps-EDA-V_01-Notebook)** | Exploratory Data Analysis of 10k+ apps; handled missing values, data visualization and data cleaning to extract market trends using Pandas and Numpy. |
 | **[MUET DRIVE](https://muet-drive.vercel.app)** | A community-focused ride-sharing web-app for Mehran University (MUET) students with strict email-based authentication. |
