@@ -63,7 +63,8 @@ I am a Software Engineering undergraduate passionate about **Computer Vision, De
 
 ### 🎓 Education
 
+
 * **B.E. Software Engineering** — Mehran University of Engineering and Technology (MUET), Jamshoro, Pakistan.
-* 📍 **Timeline:** 2024–2028 | **CGPA:** 3.80/4.00
+* 📍 **Timeline:** 2024–2028 | **Current Status:** FIFTH Semester.
 
 ---
