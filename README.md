@@ -51,8 +51,8 @@ I am a Software Engineering undergraduate passionate about **Computer Vision, De
 
 ### 📜 Certifications
 
-* ✅ **[Deep Learning Specialization (DeepLearning.AI)](https://www.coursera.org/account/accomplishments/specialization/4W3C7ODP2T8J)** — Andrew Ng.
-* ✅ **[Machine Learning Specialization (Stanford Online)](https://www.coursera.org/account/accomplishments/specialization/6EN9UZG6QWAK)** — DeepLearning.AI (Andrew Ng).
+* ✅ **[Deep Learning Specialization (DeepLearning.AI)](https://www.coursera.org/account/accomplishments/specialization/S21ZIRS6PNGQ)** — Andrew Ng.
+* ✅ **[Machine Learning Specialization (Stanford Online)](https://www.coursera.org/account/accomplishments/specialization/GBH5ITDXDU4G)** — DeepLearning.AI (Andrew Ng).
 * ✅ **[Python (Kaggle)](https://www.kaggle.com/learn/certification/mubeenakhund/python)** — Kaggle.
 * ✅ **[Pandas (Kaggle)](https://www.kaggle.com/learn/certification/mubeenakhund/pandas)** — Kaggle.
 * ✅ **[Google AI Essentials Specialization](https://www.coursera.org/account/accomplishments/specialization/D4KIDNS0PRBX)** — Google & Coursera.
