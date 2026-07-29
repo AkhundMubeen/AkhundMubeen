@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋 I'm Mubeen Akhund</h1>
 
 <p align="center">
-  <strong>Data Science & ML Research Aspirant | Python & AI Developer | Software Engineering @ MUET</strong>
+  <strong>Computer Vision & Deep Learning Research Enthusiast | AI Developer | Software Engineering @ MUET</strong>
 </p>
 
 <p align="center">
@@ -19,11 +19,12 @@
 ---
 
 ### 🧠 About Me
-I am a second-year Software Engineering student focused on the intersection of Data Science and Machine Learning. I am currently deep-diving into the mathematical foundations of ML through **Andrew Ng's Machine Learning Specialization**.
+
+I am a Software Engineering undergraduate passionate about **Computer Vision, Deep Learning, Autonomous Systems, Medical Image Analysis, and Explainable AI**. I enjoy building end-to-end AI systems that bridge research and real-world applications.
 
 * 🎓 **Education:** Pursuing a Bachelor's in Software Engineering.
-* 🛠️ **Current Focus:** Polishing my data extraction, exploration, and analysis skills in Python.
-* 📧 **Reach me:** [akhundmubeen07@gmail.com](mailto:your-email@gmail.com)
+* 🛠️ **Current Focus:** Computer Vision, Deep Learning, Autonomous Driving, and Medical AI research.
+* 📧 **Reach me:** [akhundmubeen07@gmail.com](mailto:akhundmubeen07@gmail.com)
 
 ---
 
@@ -31,37 +32,38 @@ I am a second-year Software Engineering student focused on the intersection of D
 
 | Project | Description |
 | :--- | :--- |
-| **[Student Success Analytics ML Pipeline](https://github.com/AkhundMubeen/Predicting-Student-Dropout-A-Comprehensive-Academic-Success-Study)** | A machine learning pipeline to predict student outcomes (Dropout / Enrolled / Graduate) using tabular data, with class imbalance handling, feature analysis, and model optimization. |
-| **[Netflix EDA & Recommendation Engine](https://github.com/AkhundMubeen/Netflix-Deep-EDA-and-Content-Based-Recommendation-Engine)** | A deep-dive analysis of Netflix library trends coupled with a 36-dimensional Cosine Similarity recommendation engine. |
-| **[Google Play Store EDA](https://github.com/AkhundMubeen/Google-Play-Store-Apps-EDA-V_01-Notebook)** | Exploratory Data Analysis of 10k+ apps; handled missing values, data visualization and data cleaning to extract market trends using Pandas and Numpy. |
-| **[MUET DRIVE](https://muet-drive.vercel.app)** | A community-focused ride-sharing web-app for Mehran University (MUET) students with strict email-based authentication. |
+| **[Autonomous Driving Perception](https://github.com/AkhundMubeen/autonomous-driving-perception)** | End-to-end road scene understanding pipeline integrating U-Net++ semantic segmentation, YOLO11 object detection, and ByteTrack multi-object tracking on the BDD100K dataset. |
+| **[Behavioral Cloning for Autonomous Steering](https://github.com/AkhundMubeen/autonomous-behavioral-cloning)** | NVIDIA-inspired end-to-end autonomous driving model that predicts steering angles directly from camera images using PyTorch and the Udacity Self-Driving Car Simulator. |
+| **[Brain Tumor Segmentation](https://github.com/AkhundMubeen/brain-tumor-segmentation)** | Robust semantic segmentation of brain tumors using U-Net/U-Net++ with EfficientNet-B3 encoders, custom loss functions, and advanced augmentations. |
+| **[Kidney CT Scan Classification](https://github.com/AkhundMubeen/kidney-ct-scan-classification)** | Deep learning pipeline using ResNet50 and Grad-CAM for explainable kidney pathology classification, achieving **94.05% test accuracy**. |
 
 ---
 
 ### 🛠️ Technical Skillset
 
-* **Machine Learning:** Regression, Classification, Neural Networks, Scikit-Learn.
-* **Data Science:** Exploratory Data Analysis (EDA), Pandas, Numpy, Matplotlib, Seaborn.
-* **Languages:** Python, C++, Java, SQL.
-* **Web & Database:** React, Node.js, Firebase, Supabase, Html, Css.
-* **Tools & Platforms:** Jupyter Notebook, Google Colab, Git, GitHub, VS Code.
-  
+* **Deep Learning:** PyTorch, Torchvision, Neural Networks.
+* **Computer Vision:** OpenCV, Albumentations, U-Net, U-Net++, YOLO11, ByteTrack.
+* **Machine Learning:** Scikit-Learn, Regression, Classification.
+* **Programming Languages:** Python, Java, C++.
+* **Tools & Platforms:** Git, GitHub, Kaggle, VS Code, Jupyter Notebook, Google Colab.
+
 ---
 
 ### 📜 Certifications
-* ✅ **[Supervised Machine Learning: Regression & Classification (Stanford Online)](https://www.coursera.org/account/accomplishments/verify/YT6C95OKHYKB)** — DeepLearning.AI (Andrew Ng).
-* ✅ **[Advanced Machine Learning Algorithms (Stanford Online)](https://www.coursera.org/account/accomplishments/verify/TIH1URPNQGK0)** — DeepLearning.AI (Andrew Ng).
-* ✅ **[Python Pandas (Kaggle)](https://www.kaggle.com/learn/certification/mubeenakhund/pandas)** — Kaggle.
-* ✅ **[Python Fundamentals (Kaggle)](https://www.kaggle.com/learn/certification/mubeenakhund/python)** — Kaggle. 
+
+* ✅ **[Deep Learning Specialization (DeepLearning.AI)](https://www.coursera.org/account/accomplishments/specialization/4W3C7ODP2T8J)** — Andrew Ng.
+* ✅ **[Machine Learning Specialization (Stanford Online)](https://www.coursera.org/account/accomplishments/specialization/6EN9UZG6QWAK)** — DeepLearning.AI (Andrew Ng).
+* ✅ **[Python (Kaggle)](https://www.kaggle.com/learn/certification/mubeenakhund/python)** — Kaggle.
+* ✅ **[Pandas (Kaggle)](https://www.kaggle.com/learn/certification/mubeenakhund/pandas)** — Kaggle.
 * ✅ **[Google AI Essentials Specialization](https://www.coursera.org/account/accomplishments/specialization/D4KIDNS0PRBX)** — Google & Coursera.
-* ✅ **[Meta Hacker Cup 2025](https://www.facebook.com/codingcompetitions/hacker-cup/2025/certificate/825240783296837)** — Participant & Competitor.
-* ✅ **[Harvard CS50x Puzzle Day 2025](https://certificates.cs50.io/436c9708-2794-49e9-9fd8-3c7c8d0f99d8.pdf?size=letter)** — Winner (Solved 9/9 Puzzles).
+* ✅ **[Meta Hacker Cup 2025](https://www.facebook.com/codingcompetitions/hacker-cup/2025/certificate/825240783296837)** — Qualified for Round 2.
+* ✅ **[Harvard CS50x Puzzle Day 2025](https://certificates.cs50.io/436c9708-2794-49e9-9fd8-3c7c8d0f99d8.pdf?size=letter)** — Solved 9/9 Puzzles.
 
 ---
 
 ### 🎓 Education
 
 * **B.E. Software Engineering** — Mehran University of Engineering and Technology (MUET), Jamshoro, Pakistan.
-* 📍 **Timeline:** 2024–2028 | **Current Status:** Fourth Semester.
+* 📍 **Timeline:** 2024–2028 | **CGPA:** 3.80/4.00
 
 ---
